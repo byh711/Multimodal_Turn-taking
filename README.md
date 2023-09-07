@@ -1,4 +1,3 @@
-"""
 # Real-Time Multimodal Turn-taking Prediction to Enhance Cooperative Dialogue during Human-Agent Interaction
 
 ## Authors
@@ -25,8 +24,5 @@ Predicting when it is an artificial agent’s turn to speak/act during human-age
 To train the model, execute the `train.ipynb` notebook. Ensure all dependencies are installed and data paths are set appropriately. 
 
 ## Acknowledgements
-(To be added, if any)
-
-## License
-(To be added, if any)
-"""
+This work was supported by a grant from the National Research Foundation of Korea (NRF) (Grant number:2021R1G1A1003801). 
+We would like to thank our other research collaborators who contributed to this work.
